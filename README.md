@@ -1,5 +1,3 @@
-# Profiil-GitHub
-Profile
 <!-- Ryad AI - AI Developer | Dark Themed GitHub Profile -->
 
 <div align="center">
